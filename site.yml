@@ -1,0 +1,6 @@
+---
+
+- name: Run base
+  hosts: all
+  roles:
+    - base
